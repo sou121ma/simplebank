@@ -1,10 +1,10 @@
 # simplebank
 ## Simple banking project using concept of
 + BASIC JAVA,
-OOP, 
-ENCAPSULATION, 
-CONSTRUCTOR ,
-ARRAYLIST ,
++ OOP, 
++ ENCAPSULATION, 
++ CONSTRUCTOR ,
++ ARRAYLIST ,
 
 Here the link to run this program :
 
